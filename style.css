@@ -1,0 +1,56 @@
+.bag0{
+    word-spacing: 50px;
+    margin-left: 100px;
+}
+.bag1{
+    margin: auto;
+    margin-top: 50px;
+}
+video{
+    width: 30%;   
+}
+.bag2{
+    margin-top: 50px;
+}
+vid{
+    display: flex;
+}
+.bag3{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.imm img{
+    width: 28%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.txt1{
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    text-decoration: none;
+}
+.txt1 a{
+    text-decoration: none;
+}
+.vidd video{
+    width: 30%;
+    margin-left: 40px;
+}
+.linkvid{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.imm {
+    margin-top: 10px;
+}
+.audd{
+    width: 100%;
+}
+.audd{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
